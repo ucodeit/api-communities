@@ -17,7 +17,7 @@
     "jsonwebtoken": "^8.3.0",
     "module-alias": "^2.1.0",
     "moment": "^2.22.2",
-    "morgan": "^1.9.0",
+    "morgan": "^1.9.1",
     "mysql": "^2.16.0",
     "papaparse": "^4.6.2",
     "pg": "^7.6.1",
