@@ -1,29 +1,19 @@
 {
-  "name": "stoa",
+  "name": "api-communities",
   "version": "0.1.0",
-  "description": "API de administracion de Panathinaiko",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brandon González",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unityusergroupipn/api-communities.git"
+  },
+  "author": "zeris",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "csvtojson": "^2.0.8",
-    "express": "^4.16.3",
-    "js-sha512": "^0.8.0",
-    "jsonwebtoken": "^8.3.0",
-    "module-alias": "^2.1.0",
-    "moment": "^2.22.2",
-    "morgan": "^1.9.0",
-    "mysql": "^2.16.0",
-    "papaparse": "^4.6.2",
-    "pg": "^7.6.1",
-    "request": "^2.88.0"
+  "bugs": {
+    "url": "https://github.com/unityusergroupipn/api-communities/issues"
   },
-  "devDependencies": {
-    "nodemon": "^1.18.3"
-  }
+  "homepage": "https://github.com/unityusergroupipn/api-communities#readme"
 }
